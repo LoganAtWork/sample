@@ -1,0 +1,103 @@
+{
+	"codes": [
+		{
+			"SICCode": "5912",
+			"SICDescription": "drug stores & proprietary stores",
+			"Industry": "Healthcare",
+			"LinesOfBusiness": [
+				"Retail Pharmacy",
+				"Pharmaceutical Consultant",
+				"Homeopathic Pharmacy",
+				"Retail Compounding",
+				"Apothacary / Herbalist",
+				"Retail Medical Devices"
+			]
+		},
+
+		{
+			"SICCode": "7011",
+			"SICDescription": "hotels & motels",
+			"Industry": "Hospitality/Lodging",
+			"LinesOfBusiness": [
+				"Bed & Breakfast",
+				"Chalet & Cabin Rental",
+				"Cottages & Cabins",
+				"Guest Ranches",
+				"Health Resort",
+				"Hotel / Motel",
+				"Long Term Stay",
+				"Resort",
+				"Ski Center / Resort",
+				"Tourist Accomodation"
+			]
+		},
+
+		{
+			"SICCode": "8011",
+			"SICDescription": "offices & clinics of medical doctors",
+			"Industry": "Healthcare",
+			"LinesOfBusiness": [
+				"Allergy / Asthma",
+				"Ambulatory Surgical Centers",
+				"Anesthesiologists",
+				"Anesthetists",
+				"Dermatologist",
+				"Endocrinologist",
+				"Family Medicine",
+				"Freestanding Emergency Medical Center",
+				"Gastroenterologist",
+				"General Practice",
+				"Hematology",
+				"Hepatology",
+				"Immunologist",
+				"Internal Medcine",
+				"Nephrologist",
+				"Neurologist",
+				"Obstetricians/Gynecologists",
+				"Oculist",
+				"Oncology",
+				"Ophthalmologist",
+				"Orthopedic",
+				"Otorhinolaryngologist",
+				"Pathologist",
+				"Pediatrician",
+				"Plastic Surgeon",
+				"Primary Care",
+				"Psychiatrists",
+				"Psychoanalyst",
+				"Pulmonologist",
+				"Radiologist",
+				"Rheumatologist",
+				"Sports Medicine",
+				"Surgeon",
+				"Urologist"
+			]
+		},
+		{
+			"SICCode": "8051",
+			"SICDescription": "skilled nursing care facilities",
+			"Industry": "Healthcare",
+			"options": [
+				"Assisted Living",
+				"Inpatien Hospice",
+				"Inpatient Rehabilitation",
+				"Long Term Acute Care",
+				"Nursing Homes",
+				"Residential Disability Services"
+			]
+		},
+		{
+			"SICCode": "8051",
+			"SICDescription": "skilled nursing care facilities",
+			"Industry": "Healthcare",
+			"options": [
+				"Assisted Living",
+				"Inpatient Hospice",
+				"Inpatient Rehabilitation",
+				"Long Term Acute Care",
+				"Nursing Homes",
+				"Residential Disability Services"
+			]
+		}
+	]
+}
